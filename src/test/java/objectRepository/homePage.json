@@ -1,0 +1,23 @@
+{
+  "ELEKTRONIK_TAB": {
+    "element_value": "(//li[@class='sf-MenuItems-WulWXvlfIAwNiOUGY7FP'])[1]",
+    "element_type": "xpath"
+  },
+  "CEREZLERI_KABUL_ET_BUTON": {
+    "element_value": "//button[.='Kabul et']",
+    "element_type": "xpath"
+  },
+  "SUB_CATEGORY_TABLET_APPLE": {
+    "element_value": "//a[@class='sf-ChildMenuItems-OIXGN6gTcuAXz_dkh8Yv item-2353']",
+    "element_type": "xpath"
+  },
+  "SUB_CATEGORY_BILGISAYAR_TABLET": {
+    "element_value": "(//ul[@class='sf-ChildMenuItems-a4G0z3YJJWkQs7qKKuuj'])[1]",
+    "element_type": "xpath"
+  },
+  "TABLET_SIZE_132": {
+    "element_value": "//span[.='13,2 inç']",
+    "element_type": "xpath"
+  }
+
+  }

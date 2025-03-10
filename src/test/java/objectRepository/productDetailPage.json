@@ -1,0 +1,14 @@
+{
+"PRODUCT_PAGE_PRODUCT_PRICE": {
+"element_value": "//div[@class='z7kokklsVwh0K5zFWjIO nUoGYtEwzHyrjX2lvABI']",
+"element_type": "xpath"
+},
+  "URUN_DETAY_SEPETE_EKLE_BUTON": {
+    "element_value": "//button[.='Sepete ekle']",
+    "element_type": "xpath"
+  },
+  "URUN_DETAY_SEPETE_GIT_BUTTON": {
+    "element_value": "//button[.='Sepete git']",
+    "element_type": "xpath"
+  }
+}

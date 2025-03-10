@@ -1,0 +1,17 @@
+/.idea/*
+/.idea/workspace.xml
+../target
+../test-output
+../logs
+../gradle
+../.gradle
+../.gitattributes
+../gradlew.bat
+../settings.gradle.kts
+
+
+# Ignore target directory globally
+/test-output/
+/target/
+/allure-results/
+/target/allure-results

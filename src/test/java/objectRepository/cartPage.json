@@ -1,0 +1,6 @@
+{
+  "CART_PAGE_PRODUCT_PRICE": {
+    "element_value": "//div[@class='product_price_uXU6Q']",
+    "element_type": "xpath"
+  }
+  }

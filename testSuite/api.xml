@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Test Suite">
+    <test name="Booking API Tests">
+        <!-- Test sınıfını belirtin -->
+        <classes>
+            <class name="apiTests.BookingApiTest"/> <!-- CreateBookingTest sınıfı -->
+            
+        </classes>
+    </test>
+</suite>
